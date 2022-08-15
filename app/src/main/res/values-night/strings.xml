@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_cor">Cor</string>
+    <string name="label_btn_confirm">Confirmar</string>
+    <string name="label_show_sucess">Cartão Cadastrado com Sucesso</string>
+
+</resources>
